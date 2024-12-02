@@ -1,0 +1,10 @@
+einops
+hydra-core
+jsonlines
+lightning
+numpy
+pandas
+timm
+torch
+tqdm
+wandb
